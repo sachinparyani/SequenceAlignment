@@ -20,7 +20,7 @@ You can benefit from this repository in multiple ways.
 2. If you want to compare the results of your implementation of the above alignment strategies with some other implentation, you can do that. 
 3. Lastly, if you want to see a good use-case of dynamic programming, this is a good place to start since all the implementations are done using dynamic programming (basically variations of the [edit-distance](https://www.geeksforgeeks.org/dynamic-programming-set-5-edit-distance/) problem)
 
-## Contributing
+## Contribution
 
 You are welcome to contribute to this repo, for example if you would like to add an implementation of newer or more sophisticated alignment strategy, please feel free to do so. 
 
